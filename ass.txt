@@ -1,0 +1,8 @@
+Write a C program to compare two strings using pointers.
+use : macro , const , fn pointer 
+
+Write a C program to search an element in array using pointers.
+use : macro , const , fn pointer 
+
+Write a C program to swap two arrays using pointers.
+use : enum , const , fn pointer
